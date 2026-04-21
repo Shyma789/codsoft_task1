@@ -79,6 +79,7 @@ Steps:
 
 ## 👤 Author
 Shyma A
+Computer Science Student
 
 ---
 
