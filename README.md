@@ -50,16 +50,12 @@ It also performs data analysis and visualization to identify important factors a
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository or download ZIP  
-2. Install required libraries:
-3. Run the Python file:---
-   
-## ⚠️ Important Note
+1. Clone the repository or download ZIP
+2. Open terminal 
+3. Install required libraries:pip install -r requirements.txt
+4. Run the Python file:python movie_rating.py
 
-Ensure that you run the Python file from the project directory where all files are located.
-Steps:
-1. Open terminal
-2. Navigate to the project folder:
+---
    
 ## ✅ Output
 - Predicts passenger survival status (Survived / Not Survived)
