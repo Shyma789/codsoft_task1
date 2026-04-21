@@ -51,8 +51,8 @@ It also performs data analysis and visualization to identify important factors a
 ## ▶️ How to Run the Project
 
 1. Clone the repository or download ZIP  
-2. Install required libraries:
-3. Run the Python file:---
+2. Install required libraries:pip install -r requirements.txt
+3. Run the Python file:python titanic_survival.py
 
 ## ✅ Output
 - Predicts passenger survival status (Survived / Not Survived)
